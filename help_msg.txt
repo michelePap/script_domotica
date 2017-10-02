@@ -1,0 +1,15 @@
+--- COMANDI DISPONIBILI ---
+
+Help  --> questo messaggio
+
+Ping  --> test, invia "PONG!"
+
+Foto  --> invio foto da webcam
+
+Meteo --> informazioni condizioni meteo
+
+Temperatura        --> rileva temperatura attuale
+
+Avviso temperatura --> notifica superamento temperatura
+
+Avviso movimento   --> notifica movimento e invia foto da webcam
